@@ -1,4 +1,3 @@
-a=int(input())
-b=int(input())
-c=a%b
-print(c)
+p=int(input())
+q=int(input())
+print(p%q)
