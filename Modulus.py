@@ -1,3 +1,3 @@
+n=int(input())
 p=int(input())
-q=int(input())
-print(p%q)
+print(n%p)
