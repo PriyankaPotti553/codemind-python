@@ -1,4 +1,4 @@
-a,b,c=map(int,input().split())
-s=(a+b+c)/2
-area=(s*(s-a)*(s-b)*(s-c))**0.5
-print("%.2f" %area)
+l,m,n=map(int,input().split())
+p=(l+m+n)/2
+a=(p*(p-l)*(p-m)*(p-n))**0.5
+print("%.2f" %a)
