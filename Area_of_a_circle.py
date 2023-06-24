@@ -1,4 +1,4 @@
-r=int(input())
+n=int(input())
 pi=3.14
-a=pi*r**2
+a=3.14*n**2
 print(a)
