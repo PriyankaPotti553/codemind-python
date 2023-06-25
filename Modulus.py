@@ -1,3 +1,3 @@
-n=int(input())
-p=int(input())
-print(n%p)
+a=int(input())
+b=int(input())
+print(a%b)
