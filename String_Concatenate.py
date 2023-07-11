@@ -1,7 +1,7 @@
-a=input()
-b=input()
-c=a+b
-c=list(c)
-c.sort()
-c="".join(c)
-print(c)
+p=input()
+q=input()
+r=p+q
+r=list(r)
+r.sort()
+r="".join(r)
+print(r)
